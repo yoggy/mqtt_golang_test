@@ -1,0 +1,8 @@
+{
+	"broker_url" : "tcp://iot.eclipse.org:1883",
+	"use_auth"   : false,
+	"username"   : "username",
+	"password"   : "password",
+	"topic"       : "test_topic"
+}
+
